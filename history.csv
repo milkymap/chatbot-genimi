@@ -1,0 +1,126 @@
+identité_utilisateur,nom,email,identité_quiz,titre_quiz,score,total,date,points,points_total,pourcentage,temps_passé,passé,identité_cours,titre_cours
+125,Ablaye Lo,ablayelo@lewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,14,20,70.0,25s,NON,508,CM1 et CM2 &#8211; LECTURE
+125,Ablaye Lo,ablayelo@lewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-15,0,1,0.0,10s,NON,508,CM1 et CM2 &#8211; LECTURE
+125,Ablaye Lo,ablayelo@lewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,2,8,25.0,32s,NON,508,CM1 et CM2 &#8211; LECTURE
+216,Adama Gueye,adaegueye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-20,14,20,70.0,1m 47s,NON,508,CM1 et CM2 &#8211; LECTURE
+216,Adama Gueye,adaegueye@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-20,1,1,100.0,4s,OUI,508,CM1 et CM2 &#8211; LECTURE
+216,Adama Gueye,adaegueye@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-20,5,8,62.5,42s,NON,508,CM1 et CM2 &#8211; LECTURE
+224,Adja Lo,adjalo@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-21,16,20,80.0,53s,OUI,508,CM1 et CM2 &#8211; LECTURE
+224,Adja Lo,adjalo@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-21,1,1,100.0,6s,OUI,508,CM1 et CM2 &#8211; LECTURE
+224,Adja Lo,adjalo@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-21,4,8,50.0,33s,NON,508,CM1 et CM2 &#8211; LECTURE
+221,Aissatou Sall,aissatousall@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-05-10,10,20,50.0,28s,NON,508,CM1 et CM2 &#8211; LECTURE
+221,Aissatou Sall,aissatousall@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-05-10,0,1,0.0,3s,NON,508,CM1 et CM2 &#8211; LECTURE
+221,Aissatou Sall,aissatousall@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-05-10,2,8,25.0,20s,NON,508,CM1 et CM2 &#8211; LECTURE
+211,Alassane Ndiaye,alassanendiaye@ilewe.com,544,CM-LECTURE-NIVEAU 1,1,2,2022-06-21,19,20,95.0,56s,OUI,508,CM1 et CM2 &#8211; LECTURE
+211,Alassane Ndiaye,alassanendiaye@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-21,1,1,100.0,4s,OUI,508,CM1 et CM2 &#8211; LECTURE
+211,Alassane Ndiaye,alassanendiaye@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-21,5,8,62.5,34s,NON,508,CM1 et CM2 &#8211; LECTURE
+218,Alpha Ndiaye,alphandiaye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-21,13,20,65.0,1m 12s,NON,508,CM1 et CM2 &#8211; LECTURE
+218,Alpha Ndiaye,alphandiaye@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-21,0,1,0.0,5s,NON,508,CM1 et CM2 &#8211; LECTURE
+218,Alpha Ndiaye,alphandiaye@ilewe.com,553,CM-LECTURE-NIVEAU 3,1,2,2022-06-21,5,8,62.5,36s,NON,508,CM1 et CM2 &#8211; LECTURE
+126,Amar Lo,amarlo@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,17,20,85.0,29s,OUI,508,CM1 et CM2 &#8211; LECTURE
+126,Amar Lo,amarlo@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-15,0,1,0.0,15s,NON,508,CM1 et CM2 &#8211; LECTURE
+126,Amar Lo,amarlo@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,3,8,37.5,47s,NON,508,CM1 et CM2 &#8211; LECTURE
+134,Amdy Moustapha Seck,amdymoustaphaseck@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,17,20,85.0,46s,OUI,508,CM1 et CM2 &#8211; LECTURE
+134,Amdy Moustapha Seck,amdymoustaphaseck@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-15,0,1,0.0,5s,NON,508,CM1 et CM2 &#8211; LECTURE
+134,Amdy Moustapha Seck,amdymoustaphaseck@ilewe.com,553,CM-LECTURE-NIVEAU 3,1,2,2022-06-15,4,8,50.0,34s,NON,508,CM1 et CM2 &#8211; LECTURE
+116,Arame Diakhaté,aramediakhate@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,14,20,70.0,38s,NON,508,CM1 et CM2 &#8211; LECTURE
+116,Arame Diakhaté,aramediakhate@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-15,0,1,0.0,4s,NON,508,CM1 et CM2 &#8211; LECTURE
+116,Arame Diakhaté,aramediakhate@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,3,8,37.5,32s,NON,508,CM1 et CM2 &#8211; LECTURE
+215,Arame Lo,aramelo@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-21,13,20,65.0,59s,NON,508,CM1 et CM2 &#8211; LECTURE
+215,Arame Lo,aramelo@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-21,0,1,0.0,4s,NON,508,CM1 et CM2 &#8211; LECTURE
+215,Arame Lo,aramelo@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-21,6,8,75.0,34s,NON,508,CM1 et CM2 &#8211; LECTURE
+229,Babacar Gueye,babacargueyecm1@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-20,17,20,85.0,4m 31s,OUI,508,CM1 et CM2 &#8211; LECTURE
+229,Babacar Gueye,babacargueyecm1@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-20,0,1,0.0,5s,NON,508,CM1 et CM2 &#8211; LECTURE
+229,Babacar Gueye,babacargueyecm1@ilewe.com,553,CM-LECTURE-NIVEAU 3,2,2,2022-06-20,8,8,100.0,34s,OUI,508,CM1 et CM2 &#8211; LECTURE
+135,El Hadj Thioune,elhadjithioune@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,13,20,65.0,1m 4s,NON,508,CM1 et CM2 &#8211; LECTURE
+135,El Hadj Thioune,elhadjithioune@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-15,0,1,0.0,5s,NON,508,CM1 et CM2 &#8211; LECTURE
+135,El Hadj Thioune,elhadjithioune@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,2,8,25.0,34s,NON,508,CM1 et CM2 &#8211; LECTURE
+231,Fatou Ndiaye Ndoye,fatoundiayendoye@ilewe.com,544,CM-LECTURE-NIVEAU 1,1,2,2022-06-21,19,20,95.0,53s,OUI,508,CM1 et CM2 &#8211; LECTURE
+231,Fatou Ndiaye Ndoye,fatoundiayendoye@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-21,0,1,0.0,5s,NON,508,CM1 et CM2 &#8211; LECTURE
+231,Fatou Ndiaye Ndoye,fatoundiayendoye@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-21,6,8,75.0,40s,NON,508,CM1 et CM2 &#8211; LECTURE
+127,Gora Lo,goralo@ilewe.com,544,CM-LECTURE-NIVEAU 1,1,2,2022-06-15,19,20,95.0,31s,OUI,508,CM1 et CM2 &#8211; LECTURE
+127,Gora Lo,goralo@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-15,1,1,100.0,4s,OUI,508,CM1 et CM2 &#8211; LECTURE
+127,Gora Lo,goralo@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,3,8,37.5,16s,NON,508,CM1 et CM2 &#8211; LECTURE
+119,Ibrahima Gaye,ibrahimagaye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,17,20,85.0,1m 11s,OUI,508,CM1 et CM2 &#8211; LECTURE
+119,Ibrahima Gaye,ibrahimagaye@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-15,0,1,0.0,7s,NON,508,CM1 et CM2 &#8211; LECTURE
+119,Ibrahima Gaye,ibrahimagaye@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-15,0,1,0.0,7s,NON,508,CM1 et CM2 &#8211; LECTURE
+119,Ibrahima Gaye,ibrahimagaye@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,3,8,37.5,48s,NON,508,CM1 et CM2 &#8211; LECTURE
+122,Ibrahima Gueye,ibrahimagueye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,13,20,65.0,33s,NON,508,CM1 et CM2 &#8211; LECTURE
+122,Ibrahima Gueye,ibrahimagueye@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-15,1,1,100.0,4s,OUI,508,CM1 et CM2 &#8211; LECTURE
+122,Ibrahima Gueye,ibrahimagueye@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,1,8,12.5,24s,NON,508,CM1 et CM2 &#8211; LECTURE
+132,Khadidiatou Samb,khadidiatousam@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,13,20,65.0,1m 32s,NON,508,CM1 et CM2 &#8211; LECTURE
+132,Khadidiatou Samb,khadidiatousam@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-15,0,1,0.0,8s,NON,508,CM1 et CM2 &#8211; LECTURE
+132,Khadidiatou Samb,khadidiatousam@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,0,8,0.0,24s,NON,508,CM1 et CM2 &#8211; LECTURE
+133,Khadim Samb,khadimsamb@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,17,20,85.0,29s,OUI,508,CM1 et CM2 &#8211; LECTURE
+133,Khadim Samb,khadimsamb@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-15,1,1,100.0,4s,OUI,508,CM1 et CM2 &#8211; LECTURE
+133,Khadim Samb,khadimsamb@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,4,8,50.0,21s,NON,508,CM1 et CM2 &#8211; LECTURE
+130,Khady Mbaye,khadymbaye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,15,20,75.0,25s,NON,508,CM1 et CM2 &#8211; LECTURE
+130,Khady Mbaye,khadymbaye@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-15,1,1,100.0,8s,OUI,508,CM1 et CM2 &#8211; LECTURE
+130,Khady Mbaye,khadymbaye@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,1,8,12.5,31s,NON,508,CM1 et CM2 &#8211; LECTURE
+222,Khalifa Lo,khalifalo@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-21,12,20,60.0,1m 31s,NON,508,CM1 et CM2 &#8211; LECTURE
+222,Khalifa Lo,khalifalo@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-21,0,1,0.0,4s,NON,508,CM1 et CM2 &#8211; LECTURE
+222,Khalifa Lo,khalifalo@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-21,4,8,50.0,33s,NON,508,CM1 et CM2 &#8211; LECTURE
+128,Khoudia Lo,khoudialo@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-07-13,17,20,85.0,46s,OUI,508,CM1 et CM2 &#8211; LECTURE
+128,Khoudia Lo,khoudialo@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-15,0,1,0.0,11s,NON,508,CM1 et CM2 &#8211; LECTURE
+128,Khoudia Lo,khoudialo@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,0,8,0.0,36s,NON,508,CM1 et CM2 &#8211; LECTURE
+212,Mafal Lo,mafallo@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-21,16,20,80.0,59s,OUI,508,CM1 et CM2 &#8211; LECTURE
+212,Mafal Lo,mafallo@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-21,1,1,100.0,4s,OUI,508,CM1 et CM2 &#8211; LECTURE
+212,Mafal Lo,mafallo@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-21,3,8,37.5,38s,NON,508,CM1 et CM2 &#8211; LECTURE
+228,Mamadou Ndiaye,mamadoundiaye@ilewe.com,544,CM-LECTURE-NIVEAU 1,1,2,2022-06-21,19,20,95.0,1m 9s,OUI,508,CM1 et CM2 &#8211; LECTURE
+228,Mamadou Ndiaye,mamadoundiaye@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-21,1,1,100.0,10s,OUI,508,CM1 et CM2 &#8211; LECTURE
+228,Mamadou Ndiaye,mamadoundiaye@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-21,5,8,62.5,38s,NON,508,CM1 et CM2 &#8211; LECTURE
+214,Mame Rokhaya Gaye,mamerokhayagaye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-20,10,20,50.0,1m 28s,NON,508,CM1 et CM2 &#8211; LECTURE
+214,Mame Rokhaya Gaye,mamerokhayagaye@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-20,0,1,0.0,10s,NON,508,CM1 et CM2 &#8211; LECTURE
+214,Mame Rokhaya Gaye,mamerokhayagaye@ilewe.com,553,CM-LECTURE-NIVEAU 3,1,2,2022-06-20,5,8,62.5,1m 1s,NON,508,CM1 et CM2 &#8211; LECTURE
+120,Mbaye Gaye,mbayegaye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,18,20,90.0,1m 30s,OUI,508,CM1 et CM2 &#8211; LECTURE
+120,Mbaye Gaye,mbayegaye@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-15,1,1,100.0,16s,OUI,508,CM1 et CM2 &#8211; LECTURE
+120,Mbaye Gaye,mbayegaye@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,4,8,50.0,1m 19s,NON,508,CM1 et CM2 &#8211; LECTURE
+225,Modou Gueye,modougueyecm1@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-20,9,20,45.0,2m 13s,NON,508,CM1 et CM2 &#8211; LECTURE
+225,Modou Gueye,modougueyecm1@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-20,0,1,0.0,13s,NON,508,CM1 et CM2 &#8211; LECTURE
+225,Modou Gueye,modougueyecm1@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-20,4,8,50.0,45s,NON,508,CM1 et CM2 &#8211; LECTURE
+124,Mor Gueye,morgueye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,14,20,70.0,34s,NON,508,CM1 et CM2 &#8211; LECTURE
+124,Mor Gueye,morgueye@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-15,0,1,0.0,4s,NON,508,CM1 et CM2 &#8211; LECTURE
+124,Mor Gueye,morgueye@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,3,8,37.5,37s,NON,508,CM1 et CM2 &#8211; LECTURE
+219,Mouhamed Gueye,mouhamedgueyecm1@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-20,9,20,45.0,1m 39s,NON,508,CM1 et CM2 &#8211; LECTURE
+219,Mouhamed Gueye,mouhamedgueyecm1@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-20,0,1,0.0,46s,NON,508,CM1 et CM2 &#8211; LECTURE
+219,Mouhamed Gueye,mouhamedgueyecm1@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-20,3,8,37.5,38s,NON,508,CM1 et CM2 &#8211; LECTURE
+213,Mouhamedcm1 Niang,mouhamedniangcm1@ilewe.com,544,CM-LECTURE-NIVEAU 1,1,2,2022-06-21,18,20,90.0,1m 9s,OUI,508,CM1 et CM2 &#8211; LECTURE
+213,Mouhamedcm1 Niang,mouhamedniangcm1@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-21,0,1,0.0,6s,NON,508,CM1 et CM2 &#8211; LECTURE
+213,Mouhamedcm1 Niang,mouhamedniangcm1@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-21,4,8,50.0,44s,NON,508,CM1 et CM2 &#8211; LECTURE
+123,mouhamedgueyecm2,mouhammedgueye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,11,20,55.0,1m 4s,NON,508,CM1 et CM2 &#8211; LECTURE
+123,mouhamedgueyecm2,mouhammedgueye@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-15,0,1,0.0,5s,NON,508,CM1 et CM2 &#8211; LECTURE
+123,mouhamedgueyecm2,mouhammedgueye@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,2,8,25.0,18s,NON,508,CM1 et CM2 &#8211; LECTURE
+121,mouhametgayecm2,mouhamedgaye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,12,20,60.0,47s,NON,508,CM1 et CM2 &#8211; LECTURE
+121,mouhametgayecm2,mouhamedgaye@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-15,1,1,100.0,9s,OUI,508,CM1 et CM2 &#8211; LECTURE
+121,mouhametgayecm2,mouhamedgaye@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,0,8,0.0,22s,NON,508,CM1 et CM2 &#8211; LECTURE
+131,Moussa Ndiaye,moussandiaye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,14,20,70.0,44s,NON,508,CM1 et CM2 &#8211; LECTURE
+131,Moussa Ndiaye,moussandiaye@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-15,1,1,100.0,14s,OUI,508,CM1 et CM2 &#8211; LECTURE
+131,Moussa Ndiaye,moussandiaye@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,4,8,50.0,33s,NON,508,CM1 et CM2 &#8211; LECTURE
+129,Ndack Lo,ndacklo@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,12,20,60.0,3m 3s,NON,508,CM1 et CM2 &#8211; LECTURE
+129,Ndack Lo,ndacklo@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-15,0,1,0.0,4s,NON,508,CM1 et CM2 &#8211; LECTURE
+129,Ndack Lo,ndacklo@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,2,8,25.0,37s,NON,508,CM1 et CM2 &#8211; LECTURE
+220,Ndeye Khady Sene,ndeyekhadysene@ilewe.com,544,CM-LECTURE-NIVEAU 1,1,2,2022-06-21,16,20,80.0,57s,OUI,508,CM1 et CM2 &#8211; LECTURE
+220,Ndeye Khady Sene,ndeyekhadysene@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-21,0,1,0.0,5s,NON,508,CM1 et CM2 &#8211; LECTURE
+220,Ndeye Khady Sene,ndeyekhadysene@ilewe.com,553,CM-LECTURE-NIVEAU 3,1,2,2022-06-21,7,8,87.5,30s,OUI,508,CM1 et CM2 &#8211; LECTURE
+118,Ndiaye Gaye,ndiayegaye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,15,20,75.0,29s,NON,508,CM1 et CM2 &#8211; LECTURE
+118,Ndiaye Gaye,ndiayegaye@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-15,0,1,0.0,5s,NON,508,CM1 et CM2 &#8211; LECTURE
+118,Ndiaye Gaye,ndiayegaye@ilewe.com,553,CM-LECTURE-NIVEAU 3,1,2,2022-06-15,4,8,50.0,16s,NON,508,CM1 et CM2 &#8211; LECTURE
+227,Ngone Diop,ngonediop@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-20,11,20,55.0,3m 42s,NON,508,CM1 et CM2 &#8211; LECTURE
+227,Ngone Diop,ngonediop@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-20,0,1,0.0,4s,NON,508,CM1 et CM2 &#8211; LECTURE
+227,Ngone Diop,ngonediop@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-20,2,8,25.0,7m 36s,NON,508,CM1 et CM2 &#8211; LECTURE
+235,Ousseynou Fall,ousseynoufall@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-15,12,20,60.0,51s,NON,508,CM1 et CM2 &#8211; LECTURE
+235,Ousseynou Fall,ousseynoufall@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-15,1,1,100.0,1m 18s,OUI,508,CM1 et CM2 &#8211; LECTURE
+235,Ousseynou Fall,ousseynoufall@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-15,1,1,100.0,1m 16s,OUI,508,CM1 et CM2 &#8211; LECTURE
+235,Ousseynou Fall,ousseynoufall@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-15,3,8,37.5,25s,NON,508,CM1 et CM2 &#8211; LECTURE
+230,Pape Makhtar Ndiaye,papemakhtarndiaye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-21,14,20,70.0,1m 16s,NON,508,CM1 et CM2 &#8211; LECTURE
+230,Pape Makhtar Ndiaye,papemakhtarndiaye@ilewe.com,551,CM-LECTURE-NIVEAU 2,1,1,2022-06-21,1,1,100.0,12s,OUI,508,CM1 et CM2 &#8211; LECTURE
+230,Pape Makhtar Ndiaye,papemakhtarndiaye@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-21,2,8,25.0,47s,NON,508,CM1 et CM2 &#8211; LECTURE
+223,Pathe Lo,pathelocm1@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-21,3,20,15.0,1m 48s,NON,508,CM1 et CM2 &#8211; LECTURE
+223,Pathe Lo,pathelocm1@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-21,0,1,0.0,5s,NON,508,CM1 et CM2 &#8211; LECTURE
+223,Pathe Lo,pathelocm1@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-21,4,8,50.0,34s,NON,508,CM1 et CM2 &#8211; LECTURE
+226,Samba Gueye,sambagueye@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-21,16,20,80.0,1m 7s,OUI,508,CM1 et CM2 &#8211; LECTURE
+226,Samba Gueye,sambagueye@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-21,0,1,0.0,4s,NON,508,CM1 et CM2 &#8211; LECTURE
+226,Samba Gueye,sambagueye@ilewe.com,553,CM-LECTURE-NIVEAU 3,1,2,2022-06-21,5,8,62.5,30s,NON,508,CM1 et CM2 &#8211; LECTURE
+217,Seynabou Gueye,seynabougueyecm1@ilewe.com,544,CM-LECTURE-NIVEAU 1,0,2,2022-06-21,13,20,65.0,1m 7s,NON,508,CM1 et CM2 &#8211; LECTURE
+217,Seynabou Gueye,seynabougueyecm1@ilewe.com,551,CM-LECTURE-NIVEAU 2,0,1,2022-06-21,0,1,0.0,11s,NON,508,CM1 et CM2 &#8211; LECTURE
+217,Seynabou Gueye,seynabougueyecm1@ilewe.com,553,CM-LECTURE-NIVEAU 3,0,2,2022-06-21,5,8,62.5,37s,NON,508,CM1 et CM2 &#8211; LECTURE
