@@ -1,35 +1,25 @@
-from stringprep import map_table_b2
 import click 
-import hashlib
-
-from Crypto.Cipher import AES 
-from Crypto.Util.Padding import pad, unpad  
-from Crypto.Protocol.KDF import PBKDF2
 
 import asyncio
 import aiohttp
-import requests
 
 from tabulate import tabulate
 
 import logging
 
 import numpy as np 
-import operator as op 
 
-import pandas as pd 
-import json, pickle   
+import pickle   
 
 from io import BytesIO
 from plot import build_position
 from nltk.metrics import edit_distance
 
-import io 
 from os import path 
 from pydub import AudioSegment
-from sentence_transformers import SentenceTransformer, util
+from sentence_transformers import SentenceTransformer
 
-from telegram import ReplyKeyboardRemove, Update, ReplyKeyboardMarkup, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import (
     Application, 
     ContextTypes,
@@ -38,6 +28,7 @@ from telegram.ext import (
     ConversationHandler, 
     filters 
 )
+from os import getenv 
 from database import quiz
 map_teacher2student = {}
 
@@ -45,6 +36,8 @@ with open('map_student2level.pkl', 'rb') as  fp:
     map_student2level = pickle.load(fp)
     for key,val in map_student2level.items():
         print(key, val)
+
+
 
 model_name = 'distiluse-base-multilingual-cased-v1'
 if path.isfile(model_name):
@@ -256,7 +249,7 @@ async def handle_voice_message(update: Update, context: ContextTypes.DEFAULT_TYP
         async with aiohttp.ClientSession() as session:
             audio_iostream = BytesIO(audio_bytearray)
             print(audio_iostream)
-            async with session.post('tcp://localhost:8500/transcript', data={'incoming_audio': audio_iostream}) as resp:
+            async with session.post('tcp://localhost:8000/transcript', data={'incoming_audio': audio_iostream}) as resp:
                 response = await resp.json()  # transform to_dict 
                 print(response)
                 if response['status'] == 1:
@@ -430,7 +423,7 @@ async def close(update: Update, context: ContextTypes.DEFAULT_TYPE):
     return ConversationHandler.END
 
 @click.command()
-@click.option('--token', help='path to token file', type=click.Path(True), required=True)
+@click.option('--token', help='token value', type=str, required=True)
 def entrypoint(token):
     try:
         app = Application.builder().token(token).build()
