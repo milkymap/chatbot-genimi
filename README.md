@@ -4,8 +4,10 @@ genimi chatbot for student evaluation
 # requirements 
 ```bash
 python -m venv env 
-source env/bin/activate 
-pip install -r requirements.txt 
+source env/bin/activate
+pip install --upgrade pip  
+pip install -r requirements.txt
+pip install python-telegram-bot --pre 
 ```
 
 # run 
