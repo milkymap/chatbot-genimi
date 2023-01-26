@@ -2,6 +2,7 @@ import click
 
 import asyncio
 import aiohttp
+import requests 
 
 from tabulate import tabulate
 
@@ -36,8 +37,6 @@ with open('map_student2level.pkl', 'rb') as  fp:
     map_student2level = pickle.load(fp)
     for key,val in map_student2level.items():
         print(key, val)
-
-
 
 model_name = 'distiluse-base-multilingual-cased-v1'
 if path.isfile(model_name):
@@ -249,7 +248,15 @@ async def handle_voice_message(update: Update, context: ContextTypes.DEFAULT_TYP
         async with aiohttp.ClientSession() as session:
             audio_iostream = BytesIO(audio_bytearray)
             print(audio_iostream)
-            async with session.post('tcp://localhost:8000/transcript', data={'incoming_audio': audio_iostream}) as resp:
+            request2send = {
+                'url': 'http://localhost:8000/transcript', 
+                'data':{
+                        'incoming_audio': audio_iostream
+                    }
+            }
+                
+            async with session.post(**request2send) as resp:
+
                 response = await resp.json()  # transform to_dict 
                 print(response)
                 if response['status'] == 1:
